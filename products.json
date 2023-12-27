@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name":" AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img1.webp"
+    },
+    {
+        "id": 2,
+        "name":" AllenSolly Cloths",
+        "price": 250,
+        "image": "img/img2.webp"
+    },
+    {
+        "id": 3,
+        "name":"  AllenSolly Cloths",
+        "price": 290,
+        "image": "img/img3.webp"
+    },
+    {
+        "id": 4,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img4.webp"
+    },
+    {
+        "id": 5,
+        "name":"AllenSolly Cloths",
+        "price": 300,
+        "image": "img/img5.webp"
+    },
+    {
+        "id": 6,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img6.webp"
+    },
+    {
+        "id": 7,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img7.webp"
+    },
+    {
+        "id": 8,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img8.webp"
+    },
+    {
+        "id": 9,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img9.webp"
+    },
+    {
+        "id": 10,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img10.webp"
+    },
+    {
+        "id": 11,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img11.webp"
+    },
+    {
+        "id": 12,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img12.webp"
+    },
+    {
+        "id": 13,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img13.webp"
+    },
+    {
+        "id": 14,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img14.webp"
+    },
+    {
+        "id": 15,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img15.webp"
+    },
+    {
+        "id": 16,
+        "name":"AllenSolly Cloths",
+        "price": 200,
+        "image": "img/img16.webp"
+    }
+    
+
+]
